@@ -4,6 +4,7 @@ plugins {
 }
 
 dependencies {
+    implementation(project(":jit-api"))
     implementation(project(":utils"))
 }
 
