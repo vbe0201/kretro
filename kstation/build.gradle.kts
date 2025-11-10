@@ -8,5 +8,5 @@ dependencies {
 }
 
 application {
-    mainClass = "io.github.vbe0201.app.AppKt"
+    mainClass = "io.github.vbe0201.kretro.kstation.AppKt"
 }

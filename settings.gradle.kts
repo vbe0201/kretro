@@ -7,5 +7,5 @@ dependencyResolutionManagement {
 
 rootProject.name = "kretro"
 
-include(":app")
+include(":kstation")
 include(":utils")
